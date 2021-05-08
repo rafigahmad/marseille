@@ -1,5 +1,5 @@
 # marseille
-Web strategy
+ Web strategy
 "shop" <"terminal"></launching>
   "shop" <"system"_editing>
 "corporative" <"portal"_editing/growth>
@@ -8,5 +8,5 @@ Web strategy
     "social media" <content = "special_days";"products";"about_industry">
     ...
     </recycle topic>
-    <image src="></image>
+    <image src="></image>; <name></"chromium">
     ![4416a53e-4b73-4fdb-a4e3-0ec0cd114e6c](https://user-images.githubusercontent.com/83863291/117537119-097bb680-b010-11eb-897d-3a038f63f2eb.jpg)
